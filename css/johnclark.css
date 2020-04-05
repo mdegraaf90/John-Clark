@@ -1,7 +1,5 @@
 body{
 	margin: 0;
-	background-image: url('https://static.wixstatic.com/media/f130f6_4fe68c9a276e49c9a9aed77d92717cf9~mv2.gif');
-	background-size: 5000px;
 	background-color: black;
 	font-family: 'IBM Plex Mono', monospace;
 	color: #4bdd7c;
@@ -13,8 +11,7 @@ header{
 }
 
 header img{
-	border-radius: 170px;
-	width: 300px;
+	width: 600px;
 }
 h1{
 	color: #4bdd7c;
@@ -48,7 +45,6 @@ main{
 
 main img{
 
-	border-radius: 700px;
 	width: 800px;
 }
 
