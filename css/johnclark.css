@@ -1,20 +1,63 @@
 body{
 	margin: 0;
-	background-image: url('../../img/intelligence.jpg');;
-	background-repeat:repeat; 
+	padding: 20px;
+	background-image: url('https://static.wixstatic.com/media/f130f6_4fe68c9a276e49c9a9aed77d92717cf9~mv2.gif');
+	background-size: 5000px;
+	font-family: 'IBM Plex Mono', monospace;
+	color: #4bdd7c
 }
 header{
 	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
 }
 h1{
-	color: #70ff00;
+	color: #4bdd7c;
 	font-family: 'IBM Plex Mono', monospace;
 	font-size: 70px;
 	text-align: center;
 }
 
+h2{
+	color: #4bdd7c;
+	font-family: 'IBM Plex Mono', monospace;
+	font-size: 40px;
+	text-align: center;
+}
 
+h3{
+	margin-top: 0px;
+	color: #4bdd7c;
+	font-family: 'IBM Plex Mono', monospace;
+	font-size: 15px;
+	font-style: italic;
+	text-align: center;
+}
 
 main{
 	max-width: 800px;
+	margin: 0 auto;
+}
+
+main img{
+
+	border-radius: 700px;
+	width: 700px;
+}
+
+footer{
+	padding-top: 5px;
+	text-align: center;
+}
+
+a{
+	color: #4bdd7c;
+}
+a:hover{
+	color: white;
 }
