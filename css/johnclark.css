@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+	background-image: url('../../img/intelligence.jpg');;
+	background-repeat:repeat; 
+}
+header{
+	text-align: center;
+}
+h1{
+	color: #70ff00;
+	font-family: 'IBM Plex Mono', monospace;
+	font-size: 70px;
+	text-align: center;
+}
+
+
+
+main{
+	max-width: 800px;
+}
